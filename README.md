@@ -1,9 +1,12 @@
-## Hi there 👋
+# Rafiza kétlhen
+## Estudante do técnico de Desenvolvimento de sistemas no Colégio Estadual Avelino Antônio Vieira.
+
+sou estudante do tecnico de Desenvolvimento, atualmente estou aprendendo programação Back-and com Python e C++
 
 <!--
 **rafizak/rafizak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:0
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
