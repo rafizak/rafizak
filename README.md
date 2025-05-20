@@ -1,5 +1,5 @@
 # Rafiza kétlhen
-## Estudante do técnico de Desenvolvimento de sistemas no Colégio Estadual Avelino Antônio Vieira.
+### Estudante do técnico de Desenvolvimento de sistemas no Colégio Estadual Avelino Antônio Vieira.
 
 sou estudante do tecnico de Desenvolvimento, atualmente estou aprendendo programação Back-and com Python e C++
 
